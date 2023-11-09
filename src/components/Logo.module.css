@@ -1,0 +1,17 @@
+.logo{
+    display: flex;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.logo img{
+    margin-right: 12px;
+}
+
+.logo p{
+    color: #4EA8DE;
+}
+
+.logo p span{
+    color: #5E60CE;
+}

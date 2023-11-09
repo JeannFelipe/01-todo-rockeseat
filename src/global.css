@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    background-color: #1A1A1A;
+}
+
+.container{
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    padding: 0 5%;
+}

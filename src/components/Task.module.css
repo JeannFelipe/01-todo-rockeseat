@@ -1,0 +1,77 @@
+.task{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #262626;
+    border: 1px solid #333333;
+    border-radius: 8px;
+    padding: 16px;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.task .icons{
+    padding: 5px;
+    flex-shrink: 0;
+}
+
+.task .circle{
+    color: #4EA8DE;
+}
+
+.task .trash{
+    color: #808080;
+    transition: 0.4s;
+}
+
+.task .trash:hover{
+    color: #E25858;
+    background-color: #333333;
+    border-radius: 4px;
+}
+
+.task p{
+    color: white;
+    font-size: 14px;
+    width: 100%;
+    
+}
+
+.taskDone{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #262626;
+    border: 1px solid #262626;
+    border-radius: 8px;
+    padding: 16px;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.taskDone .icons{
+    padding: 5px;
+    flex-shrink: 0;
+}
+
+.taskDone .circle{
+    color: #4EA8DE;
+}
+
+.taskDone .trash{
+    color: #808080;
+    transition: 0.4s;
+}
+
+.taskDone .trash:hover{
+    color: #E25858;
+    background-color: #333333;
+    border-radius: 4px;
+}
+
+.taskDone p{
+    text-decoration: line-through;
+    color: #808080;
+    font-size: 14px;
+    width: 100%;
+}

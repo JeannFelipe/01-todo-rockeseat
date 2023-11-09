@@ -1,0 +1,18 @@
+.tasks{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 250px;
+    color: #808080;
+    border-top: 1px solid #333333;
+    border-radius: 8px;
+}
+
+.tasks .text{
+    margin-top: 16px;
+}
+
+.tasks .text b{
+    font-weight: 700;
+}
