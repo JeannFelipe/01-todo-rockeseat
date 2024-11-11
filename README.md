@@ -1,8 +1,8 @@
-# React + Vite
+# Desafio da rocketseat, criar uma lista de afazeres:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/7085882d-bdc8-47bc-8a99-4b5247038772)
 
-Currently, two official plugins are available:
+## Com uma tarefa adicionada é possivel marcar como feita ou excluir a mesma, para marcar como concluída basta clicar no círculo, para excluir basta clicar na lixeira.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/b50af91e-4f02-49a9-9508-88657aa2d89d)
+
